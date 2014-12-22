@@ -1,7 +1,7 @@
 ckanext-kata
 ============
 
-Kata extension for CKAN. Used by Etsin (https://etsin.avointiede.fi/en/).
+Kata extension for CKAN. Used by Etsin (https://etsin.avointiede.fi/en/).  And fully clobbered by atehwa.
 
 Installation
 ============
